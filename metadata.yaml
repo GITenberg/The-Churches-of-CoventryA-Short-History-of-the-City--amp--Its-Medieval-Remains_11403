@@ -1,0 +1,27 @@
+_repo: The-Churches-of-CoventryA-Short-History-of-the-City--amp--Its-Medieval-Remains_11403
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Woodhouse, Frederic W.
+    gutenberg_agent_id: '3968'
+    url: http://www.gutenberg.org/2009/agents/3968
+description: ''
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2007-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11403'
+  lccn: w 10000116
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Churches -- England -- Coventry'
+- !lcc 'NA'
+- !lcsh 'Coventry (England) -- History'
+- GITenberg
+title: 'The Churches of Coventry
+
+  A Short History of the City & Its Medieval Remains'
+url: http://www.gutenberg.org/ebooks/11403
