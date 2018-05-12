@@ -1,11 +1,16 @@
 _repo: The-Churches-of-CoventryA-Short-History-of-the-City--amp--Its-Medieval-Remains_11403
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Woodhouse, Frederic W.
     gutenberg_agent_id: '3968'
     url: http://www.gutenberg.org/2009/agents/3968
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11403#The-Churches-of-CoventryA-Short-History-of-the-City--amp--Its-Medieval-Remains
 gutenberg_bookshelf: United Kingdom
 gutenberg_issued: '2007-02-11'
 gutenberg_type: Text
